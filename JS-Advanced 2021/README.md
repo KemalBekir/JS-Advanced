@@ -5,7 +5,7 @@ In the "JS Advanced" course, you will get a deep knowledge of the JavaScript lan
 1. Resources
 2. Course Introduction
 3. Syntax, Functions and Statements  
- - <details>
+<details>
   <summary>Click me</summary>
   
   ### Syntax, Functions and Statements
