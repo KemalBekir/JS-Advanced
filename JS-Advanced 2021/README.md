@@ -4,8 +4,7 @@ In the "JS Advanced" course, you will get a deep knowledge of the JavaScript lan
 
 1. Resources
 2. Course Introduction
-3. Syntax, Functions and Statements
-<details>
+3. Syntax, Functions and Statements  <details>
   <summary>Syntax, Functions and Statements</summary>
   
   ### Syntax, Functions and Statements
