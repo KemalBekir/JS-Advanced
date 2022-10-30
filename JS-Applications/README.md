@@ -91,7 +91,7 @@ Exercise: Modular Applications\
 Exam Preparation\
 Exam Preparation\
 Workshop: End-to-End Application - Part 1\
-Workshop: End-to-End Application - Part 2\
+Workshop: End-to-End Application - Part 2
 <details>
   <summary>Workshop: Web Components</summary>
   
